@@ -1,0 +1,21 @@
+repositories:
+  BT_ros1:
+    type: git
+    url: https://github.com/Adlink-ROS/BT_ros1.git
+    version: multi-turtlebot3
+  multibot_layers:
+    type: git
+    url: https://github.com/airuchen/multibot_layer.git
+    version: master
+  turtlebot3:
+    type: git
+    url: https://github.com/airuchen/turtlebot3.git
+    version: multibots-dev
+  turtlebot3_msgs:
+    type: git
+    url: https://github.com/ROBOTIS-GIT/turtlebot3_msgs.git
+    version: melodic-devel
+  turtlebot3_simulations:
+    type: git
+    url: https://github.com/ROBOTIS-GIT/turtlebot3_simulations.git
+    version: master

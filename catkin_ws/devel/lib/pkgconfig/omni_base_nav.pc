@@ -1,0 +1,8 @@
+prefix=/home/wdd/multi/catkin_ws/devel
+
+Name: omni_base_nav
+Description: Description of omni_base_nav
+Version: 0.5.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

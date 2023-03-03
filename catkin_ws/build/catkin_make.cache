@@ -1,0 +1,2 @@
+Neuron-OmniBot/omni_base_driver:Neuron-OmniBot/omni_base_explore:Neuron-OmniBot/omni_base_nav:Neuron-OmniBot/omni_base_slam:multibot_layer:turtlebot3:turtlebot3_bringup:turtlebot3_description:turtlebot3_example:turtlebot3_navigation:turtlebot3_slam:turtlebot3_teleop
+-DCATKIN_DEVEL_PREFIX=/home/wdd/multi/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/wdd/multi/catkin_ws/install -G Unix Makefiles

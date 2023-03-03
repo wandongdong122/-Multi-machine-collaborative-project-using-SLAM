@@ -1,0 +1,8 @@
+prefix=/home/wdd/multi/catkin_ws/install
+
+Name: omni_base_driver
+Description: Description of omni_base_driver
+Version: 0.5.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

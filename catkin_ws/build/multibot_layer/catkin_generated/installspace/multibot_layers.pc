@@ -1,0 +1,8 @@
+prefix=/home/wdd/multi/catkin_ws/install
+
+Name: multibot_layers
+Description: Description of multibot_layers
+Version: 1.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lmultibot_layers
+Requires: costmap_2d dynamic_reconfigure roscpp
